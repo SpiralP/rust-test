@@ -90,7 +90,7 @@ dependencies = [
 [[package]]
 name = "parceljs"
 version = "0.1.0"
-source = "git+https://github.com/SpiralP/rust-parceljs.git?branch=test#a589e805a5ffe11d97c9229878ba8fddee065a9c"
+source = "git+https://github.com/SpiralP/rust-parceljs.git?branch=test#fb826eb2a27e6cfee4aa00efc3b62b2a738f5899"
 dependencies = [
  "includedir",
  "includedir_codegen",
